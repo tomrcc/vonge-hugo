@@ -11,6 +11,7 @@ paths:
 collections_config:
   pages:
     path: content
+    url: /[full_slug]/
     glob:
       - '!components.md'
       - '!posts/_index.md'
